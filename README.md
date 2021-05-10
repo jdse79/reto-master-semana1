@@ -62,13 +62,13 @@ El conocimiento del Cloud Computing y el dominio de los principales proveedores 
 
     General Electric, uno de los mayores conglomerados del mundo, empezó a aplicar una estrategia de transformación digital en 2014 que revolucionó la manera de trabajar que mantenían hasta el momento. 
     En 2017, la empresa eligió a Amazon Web Services como proveedor principal para alojar más de 2000 aplicaciones y servicios en la nube. Según el propio CTO y vicepresidente de la compañía, esta elección fue una de las trasformaciones más importantes para General Electric, asegura que les ha ayudado a reorientar recursos hacia tareas de innovación que, hasta el momento, estaban ocupados diseñando y manteniendo centros de datos tradicionales.
-3. [Netflix](www.netflix.com)
+3. [Netflix](https://www.netflix.com/mx/)
 
     Es difícil enumerar una lista de empresas vinculadas a la transformación digital sin nombrar a la famosa compañía de entretenimiento y distribución de contenido audiovisual en línea. 
     A pesar de tratarse de una empresa tecnológica, lo cierto es que hasta hace relativamente poco no habían apostado por los servicios en la nube. Sin embargo, dada la popularización de sus servicios y la gran cantidad de demanda de los usuarios, se han visto obligados a migrar sus centros de datos tradicionales a un entorno Cloud para poder abastecer a todos sus suscriptores. Esta migración les ha permitido expandirse de manera flexible en función de la demanda, ahorrando costes y gestionando los recursos de una manera eficiente. 
 
 
-    
+
 
 
 
